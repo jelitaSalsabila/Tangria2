@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tangria</string>
+    <string name="your_string_here"> <u>Medical Questionnaire Tangria Beauty and Spa</u></string>
+    <string name="yes"> <u>Yes</u></string>
+    <string name="no"> <u>No</u></string>
+    <string name="remark"> <u>Remark</u></string>
+</resources>
